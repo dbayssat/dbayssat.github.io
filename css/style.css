@@ -13,6 +13,7 @@ body
 
 h3
 {
+   float : left;
    color : red;
     font-style: italic;
     font-weight: 200;
